@@ -1,8 +1,9 @@
 ## Hi there, welcome! 👋
 
-<b>Marcelo Oliveira</b>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Marcelo%20Oliveira&fontAlign=51&fontAlignY=18&descAlign=77&descAlignY=83&textBg=false&fontSize=30&reversal=true"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!,+My+name+is+Marcelo+Oliveira;I'm+50+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ## 👨🏻‍💻Graduated in Computer Science
 - 🔭 Driven by knowledge, I love exploring new areas and tools.
